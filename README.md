@@ -188,3 +188,15 @@ Besides the normal IceLake patches mentioned in the Dortania guide, the XPS 13 n
 
 
 -----------------------------------------
+
+#### Special Thanks:
+
+- Dell for being a huge asshole 
+- ExtremeXT for the S3 sleep SSDT and ACPI rename
+- [Zearp's undervolting guide](https://github.com/zearp/Nucintosh#undervolting)
+- [MVDB0110's XPS 13 7390 guide](https://github.com/MVDB0110/OC-XPS13-7390)
+- [sambow23's XPS 13 non 2 in 1 guide](https://github.com/sambow23/Dell-XPS-13-7390-macOS)
+
+
+
+
