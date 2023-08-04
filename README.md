@@ -57,7 +57,8 @@
 ### CFG Lock
 
 CFG Lock variable is found at 0x43 and can be disabled by putting 0x0 as value.
-    - `setup_var CpuSetup 0x43 0x0`
+  
+     setup_var CpuSetup 0x43 0x0
 
 <br>
 
@@ -180,7 +181,7 @@ Besides the normal IceLake patches mentioned in the Dortania guide, the XPS 13 n
 
 ### Undervolting:
 
-- Please refer to [zearp](https://github.com/zearp/Nucintosh#undervolting)'s undervolting guide.
+- Please refer to [zearp's](https://github.com/zearp/Nucintosh#undervolting) undervolting guide.
 - I found `./voltageshift offset -80 -75 -75` to work pretty well, YMMV and please be careful when doing this.
 
 
