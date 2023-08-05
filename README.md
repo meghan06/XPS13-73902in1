@@ -10,13 +10,13 @@
 
 ### Specs:
 
-- Intel i7 1065G7 IceLake
-- 16 GB 3733 MHz LPDDR4 RAM
-- Intel Iris Plus Graphics
-- Toshiba 512 GB NVMe SSD
-- 13.3" 1920x1200
-- Intel AX200 (soldered)
-- Realtek ALC289, layout-id 11
+- CPU: Intel i7 1065G7 IceLake
+- RAM: 16 GB 3733 MHz LPDDR4 
+- iGPU: Intel Iris Plus Graphics
+- SSD: Toshiba 512 GB NVMe 
+- Screen: 13.3" 1920x1200
+- WLAN: Intel AX200 (soldered)
+- Audio: Realtek ALC289, layout-id 11
 
 <br>
 
@@ -80,7 +80,7 @@ CFG Lock variable is found at 0x43 and can be disabled by putting 0x0 as value.
 
 ### Enabling S3 Sleep
 
-**warning:** This step is crucial. Your system will not sleep if you do not do this.
+**Warning:** This step is crucial. Your system will not sleep if you do not do this.
 
 1. Compile this SSDT with iASL or equivalant:
 
@@ -144,6 +144,9 @@ CFG Lock variable is found at 0x43 and can be disabled by putting 0x0 as value.
 </array>
 </plist>
 ```
+
+3. **Disable Display Logo Sign of Life in POST Behavior --> Sign of Life. This BIOS option causes issues when waking from sleep.**
+
 <br>
 
 -----------------------------------------
