@@ -146,6 +146,10 @@ CFG Lock variable is found at 0x43 and can be disabled by putting 0x0 as value.
 ```
 
 3. **Disable Display Logo Sign of Life in POST Behavior --> Sign of Life. This BIOS option causes issues when waking from sleep.**
+4. Disable hibernation in macOS:
+
+		sudo pmset -a hibernatemode 0
+
 
 <br>
 
@@ -185,7 +189,9 @@ Besides the normal IceLake patches mentioned in the Dortania guide, the XPS 13 n
 ### Undervolting:
 
 - Please refer to [zearp's](https://github.com/zearp/Nucintosh#undervolting) undervolting guide.
-- I found `./voltageshift offset -80 -75 -75` to work pretty well, YMMV and please be careful when doing this.
+- I found the following to be pretty stable on my machine, YMMV and please be careful when doing this.
+
+ 		./voltageshift offset -80 -75 -75
 
 
 
