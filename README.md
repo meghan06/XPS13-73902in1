@@ -1,10 +1,9 @@
 # Dell XPS 13 7390 2 in 1
 
 
-| macOS Ventura | Amazon Listing |
-|------------|-------------|
-|<img src="https://media.discordapp.net/attachments/1084252068711247965/1137134955575644160/IMG_6096.jpg?width=488&height=651" width="960" height="550">|<img src="https://m.media-amazon.com/images/I/91KMUd1+VZL._AC_SX425_.jpg" width="960" height="440"> |
-ₚₗₑₐₛₑ ᵢ₉ₙₒᵣₑ ₜₕₑ ₜₑᵣᵣᵢ₆ₗₑ ₛ꜀ₐₗᵢₙ₉.
+| macOS Ventura 
+|------------|
+|<img src="https://media.discordapp.net/attachments/1084252068711247965/1137134955575644160/IMG_6096.jpg">|
 <br>
 
 -----------------------------------------
