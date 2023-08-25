@@ -3,7 +3,7 @@
 
 | macOS Ventura 
 |------------|
-|<img src="https://media.discordapp.net/attachments/1084252068711247965/1137134955575644160/IMG_6096.jpg">|
+|<img src="https://media.discordapp.net/attachments/1084252068711247965/1137134955575644160/IMG_6096.jpg" width="360" height="400">|
 <br>
 
 -----------------------------------------
