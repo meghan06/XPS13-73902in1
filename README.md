@@ -226,8 +226,7 @@ The 512gb Toshiba SSD works OOTB with NVMEFix.kext
 #### Special Thanks:
 
 - Dell for being a huge asshole
-- ~~r/Hackintosh Discord for being incredily unhelpful~~
-- [ExtremeXT](https://github.com/ExtremeXT) for the S3 sleep SSDT and ACPI rename
+- r/Hackintosh Discord for being incredily unhelpful, pls actually use your words and help instead of sending a link to the Dortania guide ffs
 - [Zearp's undervolting guide](https://github.com/zearp/Nucintosh#undervolting)
 - [MVDB0110's XPS 13 7390 guide](https://github.com/MVDB0110/OC-XPS13-7390)
 - [sambow23's XPS 13 non 2 in 1 guide](https://github.com/sambow23/Dell-XPS-13-7390-macOS)
